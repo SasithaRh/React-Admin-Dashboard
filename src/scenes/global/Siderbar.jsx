@@ -89,7 +89,7 @@ const Siderbar = () => {
           </MenuItem>
 
           {!isCollapsed && (
-            <Box mb="25px">
+            <Box>
               <Box display="flex" justifyContent="center" alignItems="center">
                 <img
                   alt="profile-user"
